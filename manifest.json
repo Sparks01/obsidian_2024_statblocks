@@ -1,7 +1,7 @@
 {
   "id": "dnd-2024-statblock",
   "name": "D&D 2024 Statblocks",
-  "version": "1.0.0",
+  "version": "0.5",
   "minAppVersion": "0.15.0",
   "description": "Renders D&D 2024-style statblocks in Obsidian using Homebrewery syntax",
   "author": "Your Name",
